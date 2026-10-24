@@ -1,14 +1,19 @@
-/build
-
+# Build Verzeichnis
+/build/
 .DS_Store
+
+# Apple
 .AppleDouble
 .LSOverride
 ._*
 .Spotlight-V100
 .Trashes
 
-.vscode/
-.idea/
+# IDEs
+/.idea/
+/.vscode/
+*.xcodeproj
+*.xcworkspace
 *.xcodeproj/xcuserdata/
 *.xcworkspace/xcuserdata/
 
